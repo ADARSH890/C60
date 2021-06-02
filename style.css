@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+
+}
+.line{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:8px auto;
+}
+#myapp{
+    background-color:blue;
+    width:100%;
+}
+#myGanes{
+    background-color:red;
+    width:100%;
+}
+img{
+    height:300px;
+    transition:transform .2s;
+}
+img:hover{
+transform:scale(.9);
+}
+#myChatBot{
+    background-color:yellow;
+    width:100%;
+}
+
